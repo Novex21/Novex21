@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Novex21
-- 👀 I’m interested in AI and automotive.
-- 🌱 I’m currently learning python and jarva script.
+- 👀 I’m interested in WEB and Software Development.
+- 🌱 I’m currently learning PHP and jarva script.
 
 <!---
 Novex21/Novex21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
